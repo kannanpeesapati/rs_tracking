@@ -3,8 +3,11 @@
 ## 1. Building the code
 
 `mkdir build`
+
 `cd build`
+
 `cmake ..`
+
 `make`
 
 ## 2. Run the Program
